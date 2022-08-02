@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-* 🌍  I'm based in La Haban, Cuba
+* 🌍  I'm based in La Habana, Cuba
 * ✉️  You can contact me at [gusta230799@gmail.com](mailto:gusta230799@gmail.com)
 
 ### Skills
